@@ -11,3 +11,8 @@
   background-color: #fff;
   padding: 20px 10px;
 }
+
+.to-do__submit:disabled {
+  cursor: default;
+  color: #0000004c
+}
